@@ -5,5 +5,5 @@
 
 | Более нормальные проекты |
 |-------------------------|
-| 1. [ReputationAmino](https://github.com/itsdominus/ReputationAmino) |
-| 2. [AminoMessage](https://github.com/itsdominus/AminoMessage) |
+| 1. [ReputationAmino](https://github.com/Extbhite/ReputationAmino) |
+| 2. [AminoMessage](https://github.com/Extbhite/AminoMessage) |
